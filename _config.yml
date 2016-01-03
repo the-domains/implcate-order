@@ -1,7 +1,7 @@
 name: implcate order
 favicon: null
-layout_spectrum: 0.059743016958236694
-typography_spectrum: 0.6337505695410073
+layout_spectrum: 0.38695
+typography_spectrum: 0.8197
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#262d33'
+    - '#00000a'
+    - '#70837d'
+    - '#004e87'
+    - '#485d72'
   brandStrength: 0.4077213096898049
   lightness: 0.35005112760700285
   saturation: 0.3328647599555552
